@@ -1,0 +1,17 @@
+{
+  "name": "employer-directory",
+  "version": "1.0.0",
+  "main": "employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "employer-directory": "file:",
+    "express": "^4.21.2"
+  }
+}
